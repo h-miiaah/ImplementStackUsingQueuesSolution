@@ -62,5 +62,6 @@ const QueueA = () => {
 
   /**
    * The QueueA function returns an object with three methods: length, push, and pop.
+   * The push method adds an item to the end of the queue.
    * 
    */
