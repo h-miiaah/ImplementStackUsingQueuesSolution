@@ -3,7 +3,8 @@ const QueueA = () => {
     return {
         get length() {
             return queue.length
-          }
+          },
+          push: x => queue.push(x),
       }
   }
  
