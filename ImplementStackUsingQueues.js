@@ -1,3 +1,8 @@
+const QueueA = () => {
+    
+  }
+ 
+ 
  var MyStack = function() {
       
   };
