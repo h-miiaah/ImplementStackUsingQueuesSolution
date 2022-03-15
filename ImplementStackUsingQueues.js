@@ -2,7 +2,7 @@ const QueueA = () => {
     const queue = []
     return {
         get length() {
-            
+            return queue.length
           }
       }
   }
