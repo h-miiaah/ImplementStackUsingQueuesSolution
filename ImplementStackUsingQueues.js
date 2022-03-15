@@ -25,7 +25,7 @@ const QueueA = () => {
       } else {
         this.queue.push(x)
         for (let i = 1; i <= this.queue.length - 1; i++) {
-            
+            this.queue.push(this.queue.pop())
           }
       }
   };
