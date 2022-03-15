@@ -12,7 +12,7 @@ const QueueA = () => {
  
  
  var MyStack = function() {
-      
+    this.queue = QueueA()
   };
   
   /** 
