@@ -24,6 +24,9 @@ const QueueA = () => {
         this.queue.push(x)
       } else {
         this.queue.push(x)
+        for (let i = 1; i <= this.queue.length - 1; i++) {
+            
+          }
       }
   };
   
