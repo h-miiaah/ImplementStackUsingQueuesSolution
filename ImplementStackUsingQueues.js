@@ -5,6 +5,7 @@ const QueueA = () => {
             return queue.length
           },
           push: x => queue.push(x),
+          pop: () => queue.shift(),
       }
   }
  
