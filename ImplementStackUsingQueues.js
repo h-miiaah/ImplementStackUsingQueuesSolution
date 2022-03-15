@@ -48,7 +48,7 @@ const QueueA = () => {
    * @return {boolean}
    */
   MyStack.prototype.empty = function() {
-      
+    return this.queue.length === 0
   };
   
   /** 
