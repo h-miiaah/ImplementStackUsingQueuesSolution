@@ -61,5 +61,6 @@ const QueueA = () => {
    */
 
   /**
+   * The QueueA function returns an object with three methods: length, push, and pop.
    * 
    */
