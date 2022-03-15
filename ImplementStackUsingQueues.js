@@ -1,5 +1,8 @@
 const QueueA = () => {
     const queue = []
+    return {
+        
+      }
   }
  
  
