@@ -23,7 +23,7 @@ const QueueA = () => {
     if (this.queue.length === 0) {
         this.queue.push(x)
       } else {
-        
+        this.queue.push(x)
       }
   };
   
