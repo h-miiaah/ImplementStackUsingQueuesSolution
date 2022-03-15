@@ -22,6 +22,8 @@ const QueueA = () => {
   MyStack.prototype.push = function(x) {
     if (this.queue.length === 0) {
         this.queue.push(x)
+      } else {
+        
       }
   };
   
