@@ -1,5 +1,5 @@
 const QueueA = () => {
-    
+    const queue = []
   }
  
  
