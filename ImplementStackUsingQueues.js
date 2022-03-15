@@ -20,7 +20,9 @@ const QueueA = () => {
    * @return {void}
    */
   MyStack.prototype.push = function(x) {
-      
+    if (this.queue.length === 0) {
+        
+      }
   };
   
   /**
