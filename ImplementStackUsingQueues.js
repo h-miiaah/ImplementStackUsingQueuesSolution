@@ -41,7 +41,7 @@ const QueueA = () => {
    * @return {number}
    */
   MyStack.prototype.top = function() {
-      
+    return this.queue.top()
   };
   
   /**
