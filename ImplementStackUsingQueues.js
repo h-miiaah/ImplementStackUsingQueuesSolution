@@ -34,7 +34,7 @@ const QueueA = () => {
    * @return {number}
    */
   MyStack.prototype.pop = function() {
-      
+    return this.queue.pop()
   };
   
   /**
