@@ -6,6 +6,7 @@ const QueueA = () => {
           },
           push: x => queue.push(x),
           pop: () => queue.shift(),
+          top: () => queue[0],
       }
   }
  
