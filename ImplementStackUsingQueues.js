@@ -1,7 +1,9 @@
 const QueueA = () => {
     const queue = []
     return {
-        
+        get length() {
+            
+          }
       }
   }
  
